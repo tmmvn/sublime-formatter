@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Formatter: Format Current File",
+        "command": "formatfoo"
+    },
+    {
+        "caption": "Formatter: Format Current Selection",
+        "command": "formatfoo",
+        "args": {"selection_only": true}
+    }
+]
