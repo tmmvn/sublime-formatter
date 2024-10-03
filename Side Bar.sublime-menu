@@ -1,9 +1,9 @@
 [
     {
-        "caption": "AStyleFormatter",
+        "caption": "Formatter",
         "children":
         [
-            { "caption": "Format", "command": "astyleformat" }
+            { "caption": "Format", "command": "format" }
         ]
     },
     { "caption": "-", "id": "folder_commands" }

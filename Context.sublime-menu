@@ -1,12 +1,12 @@
 [
     { "caption": "-", "id": "file" },
     {
-        "caption": "AStyleFormatter",
+        "caption": "Formatter",
         "children":
         [
-            { "caption": "Format", "command": "astyleformat" },
+            { "caption": "Format", "command": "format" },
             {
-                "caption": "Format selection", "command": "astyleformat",
+                "caption": "Format selection", "command": "format",
                 "args": {"selection_only": true}
             }
         ]
